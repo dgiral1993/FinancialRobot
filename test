@@ -1,0 +1,9 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Apr  6 23:24:10 2017
+
+@author: daniel
+"""
+
+import theano
